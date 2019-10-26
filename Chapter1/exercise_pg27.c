@@ -57,7 +57,7 @@ int main()
       printf("The card value is: %i\n", val);
     
   }
-  retunr 0;
+  return 0;
 }
 
 /* Solution:
@@ -83,5 +83,5 @@ int main()
 *       val = atoi(card_name);
 *       printf("The card value is: %i\n", val); 
 *   }
-* retunr 0;
+* return 0;
 * }
